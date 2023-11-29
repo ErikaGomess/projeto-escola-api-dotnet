@@ -4148,19 +4148,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\egome\\.nuget\\packages\\": {}
+    "/Users/u22543/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egome\\Downloads\\ProjetoEscola 2\\ProjetoEscola\\ProjetoEscola_API\\ProjetoEscola_API.csproj",
+      "projectUniqueName": "/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/ProjetoEscola_API.csproj",
       "projectName": "ProjetoEscola_API",
-      "projectPath": "C:\\Users\\egome\\Downloads\\ProjetoEscola 2\\ProjetoEscola\\ProjetoEscola_API\\ProjetoEscola_API.csproj",
-      "packagesPath": "C:\\Users\\egome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egome\\Downloads\\ProjetoEscola 2\\ProjetoEscola\\ProjetoEscola_API\\obj\\",
+      "projectPath": "/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/ProjetoEscola_API.csproj",
+      "packagesPath": "/Users/u22543/.nuget/packages/",
+      "outputPath": "/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\egome\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/u22543/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -4234,7 +4234,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

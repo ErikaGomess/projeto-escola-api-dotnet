@@ -189,82 +189,240 @@
 /Users/u22543/Desktop/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.pdb
 /Users/u22543/Desktop/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.genruntimeconfig.cache
 /Users/u22543/Desktop/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ref/ProjetoEscola_API.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\appsettings.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\ProjetoEscola_API.exe
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\ProjetoEscola_API.deps.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\ProjetoEscola_API.runtimeconfig.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\ProjetoEscola_API.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\ProjetoEscola_API.pdb
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Humanizer.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\MySqlConnector.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.csproj.AssemblyReference.cache
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.AssemblyInfoInputs.cache
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.AssemblyInfo.cs
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.csproj.CoreCompileInputs.cache
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets\msbuild.ProjetoEscola_API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ProjetoEscola_API.props
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoEscola_API.props
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProjetoEscola_API.props
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\scopedcss\bundle\ProjetoEscola_API.styles.css
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.csproj.CopyComplete
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\refint\ProjetoEscola_API.dll
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.pdb
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ProjetoEscola_API.genruntimeconfig.cache
-C:\Users\egome\Downloads\ProjetoEscola 2\ProjetoEscola\ProjetoEscola_API\obj\Debug\net7.0\ref\ProjetoEscola_API.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/appsettings.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/ProjetoEscola_API.exe
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/ProjetoEscola_API.deps.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/ProjetoEscola_API.runtimeconfig.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/ProjetoEscola_API.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/ProjetoEscola_API.pdb
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Humanizer.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/MySqlConnector.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.csproj.AssemblyReference.cache
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.AssemblyInfoInputs.cache
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.AssemblyInfo.cs
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.csproj.CoreCompileInputs.cache
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets/msbuild.ProjetoEscola_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets/msbuild.build.ProjetoEscola_API.props
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ProjetoEscola_API.props
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ProjetoEscola_API.props
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/scopedcss/bundle/ProjetoEscola_API.styles.css
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.csproj.CopyComplete
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/refint/ProjetoEscola_API.dll
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.pdb
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ProjetoEscola_API.genruntimeconfig.cache
+C:/Users/egome/Downloads/ProjetoEscola 2/ProjetoEscola/ProjetoEscola_API/obj/Debug/net7.0/ref/ProjetoEscola_API.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/appsettings.Development.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/appsettings.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.deps.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.runtimeconfig.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.pdb
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Azure.Core.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Azure.Identity.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Humanizer.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/MySqlConnector.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.CodeDom.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.csproj.AssemblyReference.cache
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.AssemblyInfoInputs.cache
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.AssemblyInfo.cs
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.csproj.CoreCompileInputs.cache
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.ProjetoEscola_API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.build.ProjetoEscola_API.props
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ProjetoEscola_API.props
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ProjetoEscola_API.props
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets.build.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets.development.json
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/scopedcss/bundle/ProjetoEscola_API.styles.css
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.csproj.CopyComplete
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/refint/ProjetoEscola_API.dll
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.pdb
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.genruntimeconfig.cache
+/Users/u22543/Documents/22543_projetoEscola/APIEscola/projeto-escola-api-dotnet/obj/Debug/net7.0/ref/ProjetoEscola_API.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/appsettings.Development.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/appsettings.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.deps.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.runtimeconfig.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/ProjetoEscola_API.pdb
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Azure.Core.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Azure.Identity.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Humanizer.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/MySqlConnector.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.CodeDom.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.csproj.AssemblyReference.cache
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.AssemblyInfoInputs.cache
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.AssemblyInfo.cs
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.csproj.CoreCompileInputs.cache
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.ProjetoEscola_API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.build.ProjetoEscola_API.props
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ProjetoEscola_API.props
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ProjetoEscola_API.props
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets.build.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/staticwebassets.development.json
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/scopedcss/bundle/ProjetoEscola_API.styles.css
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.csproj.CopyComplete
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/refint/ProjetoEscola_API.dll
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.pdb
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ProjetoEscola_API.genruntimeconfig.cache
+/Users/u22543/Documents/revisao/projeto-escola-api-dotnet/obj/Debug/net7.0/ref/ProjetoEscola_API.dll
